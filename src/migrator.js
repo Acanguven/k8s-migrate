@@ -236,12 +236,7 @@ const migrate = async (sourceClient, targetClient, namespace) => {
           }
         }), {concurrent: true});
       }
-    },
-    // {
-    //   title: 'Publish package',
-    //   task: () => {
-    //   }
-    // }
+    }
   ]);
 
   await tasks
