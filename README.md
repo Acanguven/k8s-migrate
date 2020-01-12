@@ -2,12 +2,12 @@
 
 Copy namespace from one kubernetes to other in 3 seconds
 
-Install
+### Install
 ```bash
-npm i -G k8s-migrate
+npm i -g k8s-migrate
 ```
 
-Run
+### Run
 ```bash
 k8s-migrate
 ```
