@@ -1,6 +1,6 @@
 # K8S Migrator
 
-Migrate namespace from one k8s to other in 3 seconds.
+Copy namespace from one kubernetes to other in 3 seconds
 
 Install
 ```bash
