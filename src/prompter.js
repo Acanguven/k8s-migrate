@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const inquirer = require('inquirer');
 const k8SClient = require('./client');
 const migrator = require('./migrator');
